@@ -15,9 +15,6 @@ for i in range(int(l/2)):
             break
 if(i==int(l/2)):
     print(''.join(n))
-        
-        
-
 
 # dic={}
 # dic1={}
